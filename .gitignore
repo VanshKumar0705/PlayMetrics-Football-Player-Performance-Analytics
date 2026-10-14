@@ -3,3 +3,8 @@ yolov5xu.pt
 models
 tfenv
 training
+*.mp4
+*.avi
+*.mov
+*.mkv
+output_videos/
